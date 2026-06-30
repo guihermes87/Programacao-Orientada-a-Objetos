@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "ClienteSocket",
+			"path": "../../../../../ClienteSocket"
+		}
+	],
+	"settings": {}
+}

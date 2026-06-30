@@ -24,18 +24,18 @@ public class Funcionario {
         this.salario = salario;
     }
 
+    
+
     public void CalcularSalario() {
         System.out.println("Salário do funcionário: " + salario);
     }
 
-    public void CalcularSalario(Desenvolvedor dev) {
-        double salarioFinal = salario + (dev.getHorasextras() * 50); // Supondo que cada hora extra vale 50
-        System.out.println("Salário do desenvolvedor: " + salarioFinal);
+
+
+    @Override
+    public String toString() {
+        return "Funcionario [nome=" + nome + ", salario=" + salario + "]";
     }
 
-    public void CalcularSalario(Gerente gerente) {
-        double salarioFinal = salario + gerente.getBonus(); // Adiciona o bônus ao salário
-        System.out.println("Salário do gerente: " + salarioFinal);
-    }
-
-}
+    
+}   

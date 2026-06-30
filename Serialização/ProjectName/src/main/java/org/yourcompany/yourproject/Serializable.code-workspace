@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../Serializable"
+		},
+		{
+			"name": "ProjectName",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {}
+}
