@@ -18,6 +18,7 @@ Os exercícios estão organizados por tema, em ordem cronológica das aulas:
 | `08-sobrecarga-e-sobrescrita/` | Aula de 05/05 — overload e override |
 | `09-arraylist/` | Coleções com ArrayList |
 | `10-aula-12-05/` | Aula de 12/05 — Pessoa, Endereço, Produto |
+| `13-arquivos/` | Manipulação de arquivos — leitura/escrita de texto (cadastro de produtos) |
 | `prova-pratica/` | Prova prática |
 
 ## Como executar
